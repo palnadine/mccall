@@ -1,0 +1,191 @@
+@media only screen and (max-width: 1400px) {
+    body {
+    }
+    
+    img {
+        object-fit: fill;
+        width:100%;
+        height:auto;
+    }
+    
+    #telegram {
+        margin-bottom: 50px;
+        object-fit: none;
+        width: 230px;
+        height: 126px;
+    }
+    
+    #nav_wrapper {
+        margin-left: 15%;
+        margin-right: 10%;
+    }
+    
+    .nav_button {
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    
+    #content, #ueberschrift {
+        padding-left: 10%; 
+        padding-right: 10%;
+    }
+    
+    .collage_wrapper {
+        margin: auto;
+    }
+    
+    .small, .tiny {
+        font-size: 2em;
+    }
+    
+    .price-tiny {
+        font-size: 1em;
+    }
+  
+    .one, .two, .three {
+        clear: both;
+        width: 100%;
+    }
+    
+    #img_001, #img_002, #img_003, 
+    #img_004, #img_005, #img_006,
+    #img_007, #img_008,
+    #img_009, #img_010,
+    #img_011, #img_012, #img_013,
+    #img_014, #img_015, 
+    #img_016, #img_017,
+    #img_018, #img_019,
+    #img_020, #img_021, #img_022,
+    #img_023,
+    #img_024, #img_025,
+    #img_026, #img_027, #img_028,
+    #img_029, #img_030,
+    #img_031,
+    #img_032, #img_033,
+    #img_034, #img_035, #img_036,
+    #img_037, #img_038,
+    #img_039, #img_040,
+    #img_041,
+    #img_042, #img_043,
+    #img_044, #img_045,
+    #img_046, #img_047, #img_048,
+    #img_049,
+    #img_050, #img_051, #img_052,
+    #img_053, #img_054,
+    #img_055, #img_056 {
+        width: 55%;
+        margin: auto;
+        margin-bottom: 100px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    body {
+    }
+    
+    h1 {
+        font-size: 3em;
+    }
+    
+    h2 {
+        font-size: 2em;
+    }
+    
+    img {
+        object-fit: fill;
+        width:100%;
+        height:auto;
+    }
+    
+    nav {
+        height: 100px;
+    }
+    
+    #head_wrapper {
+        max-width: 330px;
+    }
+    
+    #nav_wrapper {
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+    
+    #content, #ueberschrift {
+        text-align: left; 
+        padding-left: 5%; 
+        padding-right: 5%;
+    }
+    
+    #telegram {
+        margin-bottom: 50px;
+        object-fit: none;
+        width: 230px;
+        height: 126px;
+    }
+    
+    .nav_button {
+        margin-left: 2%;
+        margin-right: 2%;
+        font-size: 16px;
+        padding: 8px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    .collage_wrapper {
+        margin: auto;
+    }
+    
+    .status_content {
+        margin-left: 6px;
+        font-size: 1.6em;
+    }
+    
+    .small, .tiny {
+        font-size: 1.6em;
+    }
+    
+    .number {
+        padding-right: 6px;
+    }
+    
+    .price-tiny {
+        font-size: 1em;
+    }
+  
+    .one, .two, .three {
+        clear: both;
+        width: 100%;
+    }
+    
+    #img_001, #img_002, #img_003, 
+    #img_004, #img_005, #img_006,
+    #img_007, #img_008,
+    #img_009, #img_010,
+    #img_011, #img_012, #img_013,
+    #img_014, #img_015, 
+    #img_016, #img_017,
+    #img_018, #img_019,
+    #img_020, #img_021, #img_022,
+    #img_023,
+    #img_024, #img_025,
+    #img_026, #img_027, #img_028,
+    #img_029, #img_030,
+    #img_031,
+    #img_032, #img_033,
+    #img_034, #img_035, #img_036,
+    #img_037, #img_038,
+    #img_039, #img_040,
+    #img_041,
+    #img_042, #img_043,
+    #img_044, #img_045,
+    #img_046, #img_047, #img_048,
+    #img_049,
+    #img_050, #img_051, #img_052,
+    #img_053, #img_054,
+    #img_055, #img_056 {
+        width: 90%;
+        margin: auto;
+        margin-bottom: 100px;
+    }    
+}
