@@ -222,10 +222,12 @@ main {
 }
 
 #content {
+    margin: auto;
+    max-width: 1050px;
     font-size: 1.6em; 
     text-align: center; 
-    padding-left: 30%; 
-    padding-right: 30%; 
+    padding-left: 16px; 
+    padding-right: 16px; 
 }
 
 #telegram {
@@ -236,9 +238,11 @@ main {
 }
 
 #ueberschrift {
+    margin: auto;
+    max-width: 1050px;
     font-size: 2.6em; 
-    padding-left: 30%; 
-    padding-right: 30%;
+    padding-left: 16px; 
+    padding-right: 16px;
 }
 
 #divider {
