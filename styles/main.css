@@ -79,12 +79,12 @@ h1 {
 
 h2 {
     margin: -15px 0 15px 0;
-    font-size: 3em;
+    font-size: 2em;
     text-align: right;
 }
 
 #head_wrapper {
-    max-width: 530px;
+    max-width: 450px;
 }
 
 /* NAVIGATION */
@@ -97,7 +97,7 @@ nav {
 
 #nav_wrapper {
     margin: auto;
-    width: 800px;
+    width: 900px;
     height: 54px;
 }
 
